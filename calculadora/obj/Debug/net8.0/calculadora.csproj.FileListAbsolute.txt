@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\calculadora\bin\Debug\net8.0\calculadora.exe
+D:\projetos\.net\decola-tech\calculadora\bin\Debug\net8.0\calculadora.deps.json
+D:\projetos\.net\decola-tech\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+D:\projetos\.net\decola-tech\calculadora\bin\Debug\net8.0\calculadora.dll
+D:\projetos\.net\decola-tech\calculadora\bin\Debug\net8.0\calculadora.pdb
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.dll
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.pdb
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\calculadora\obj\Debug\net8.0\ref\calculadora.dll

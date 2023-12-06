@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\exemplo-construtores\bin\Debug\net8.0\exemplo-construtores.exe
+D:\projetos\.net\decola-tech\exemplo-construtores\bin\Debug\net8.0\exemplo-construtores.deps.json
+D:\projetos\.net\decola-tech\exemplo-construtores\bin\Debug\net8.0\exemplo-construtores.runtimeconfig.json
+D:\projetos\.net\decola-tech\exemplo-construtores\bin\Debug\net8.0\exemplo-construtores.dll
+D:\projetos\.net\decola-tech\exemplo-construtores\bin\Debug\net8.0\exemplo-construtores.pdb
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.dll
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\refint\exemplo-construtores.dll
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.pdb
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\exemplo-construtores.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\exemplo-construtores\obj\Debug\net8.0\ref\exemplo-construtores.dll

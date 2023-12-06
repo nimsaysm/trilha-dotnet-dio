@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\introducao\bin\Debug\net8.0\introducao.exe
+D:\projetos\.net\decola-tech\introducao\bin\Debug\net8.0\introducao.deps.json
+D:\projetos\.net\decola-tech\introducao\bin\Debug\net8.0\introducao.runtimeconfig.json
+D:\projetos\.net\decola-tech\introducao\bin\Debug\net8.0\introducao.dll
+D:\projetos\.net\decola-tech\introducao\bin\Debug\net8.0\introducao.pdb
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.dll
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\refint\introducao.dll
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.pdb
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\introducao.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\introducao\obj\Debug\net8.0\ref\introducao.dll

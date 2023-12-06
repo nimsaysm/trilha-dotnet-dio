@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\menu-interativo\bin\Debug\net8.0\menu-interativo.exe
+D:\projetos\.net\decola-tech\menu-interativo\bin\Debug\net8.0\menu-interativo.deps.json
+D:\projetos\.net\decola-tech\menu-interativo\bin\Debug\net8.0\menu-interativo.runtimeconfig.json
+D:\projetos\.net\decola-tech\menu-interativo\bin\Debug\net8.0\menu-interativo.dll
+D:\projetos\.net\decola-tech\menu-interativo\bin\Debug\net8.0\menu-interativo.pdb
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.dll
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\refint\menu-interativo.dll
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.pdb
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\menu-interativo.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\menu-interativo\obj\Debug\net8.0\ref\menu-interativo.dll

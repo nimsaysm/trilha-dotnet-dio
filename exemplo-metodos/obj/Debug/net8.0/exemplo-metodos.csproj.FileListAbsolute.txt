@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\exemplo-metodos\bin\Debug\net8.0\exemplo-metodos.exe
+D:\projetos\.net\decola-tech\exemplo-metodos\bin\Debug\net8.0\exemplo-metodos.deps.json
+D:\projetos\.net\decola-tech\exemplo-metodos\bin\Debug\net8.0\exemplo-metodos.runtimeconfig.json
+D:\projetos\.net\decola-tech\exemplo-metodos\bin\Debug\net8.0\exemplo-metodos.dll
+D:\projetos\.net\decola-tech\exemplo-metodos\bin\Debug\net8.0\exemplo-metodos.pdb
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.dll
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\refint\exemplo-metodos.dll
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.pdb
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\exemplo-metodos.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\exemplo-metodos\obj\Debug\net8.0\ref\exemplo-metodos.dll

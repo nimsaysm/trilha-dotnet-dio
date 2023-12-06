@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!-- Tipo de arquivo: pode ser executável (com uma saída) ou biblioteca de projetos -->
+    <TargetFramework>net8.0</TargetFramework><!-- Versão do .NET -->
+    <!-- Dizem como o projeto deve executar/se comportar: -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\projetos\.net\decola-tech\exemplo-propriedades\bin\Debug\net8.0\exemplo-propriedades.exe
+D:\projetos\.net\decola-tech\exemplo-propriedades\bin\Debug\net8.0\exemplo-propriedades.deps.json
+D:\projetos\.net\decola-tech\exemplo-propriedades\bin\Debug\net8.0\exemplo-propriedades.runtimeconfig.json
+D:\projetos\.net\decola-tech\exemplo-propriedades\bin\Debug\net8.0\exemplo-propriedades.dll
+D:\projetos\.net\decola-tech\exemplo-propriedades\bin\Debug\net8.0\exemplo-propriedades.pdb
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.dll
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\refint\exemplo-propriedades.dll
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.pdb
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\exemplo-propriedades.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\exemplo-propriedades\obj\Debug\net8.0\ref\exemplo-propriedades.dll
