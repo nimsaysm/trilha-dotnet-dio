@@ -1,0 +1,15 @@
+D:\projetos\.net\decola-tech\exceptions\bin\Debug\net8.0\exceptions.exe
+D:\projetos\.net\decola-tech\exceptions\bin\Debug\net8.0\exceptions.deps.json
+D:\projetos\.net\decola-tech\exceptions\bin\Debug\net8.0\exceptions.runtimeconfig.json
+D:\projetos\.net\decola-tech\exceptions\bin\Debug\net8.0\exceptions.dll
+D:\projetos\.net\decola-tech\exceptions\bin\Debug\net8.0\exceptions.pdb
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.sourcelink.json
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.dll
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\refint\exceptions.dll
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.pdb
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\exceptions.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\exceptions\obj\Debug\net8.0\ref\exceptions.dll

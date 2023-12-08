@@ -30,3 +30,11 @@ Uso e manipulação de métodos das classes em C#.
 
 ### [6. Construtores](./exemplo-construtores)
 Criação e uso de construtores em classes.
+
+
+### [7. Concatenação](./concatenando-strings)
+Uso de concatenação e interpolação.
+
+
+### [8. Exceções](./exceptions)
+Aplicações, manipulações e resolução de exceções genéricas e específicas.

@@ -1,0 +1,15 @@
+D:\projetos\.net\decola-tech\formatando-valores\bin\Debug\net8.0\formatando-valores.exe
+D:\projetos\.net\decola-tech\formatando-valores\bin\Debug\net8.0\formatando-valores.deps.json
+D:\projetos\.net\decola-tech\formatando-valores\bin\Debug\net8.0\formatando-valores.runtimeconfig.json
+D:\projetos\.net\decola-tech\formatando-valores\bin\Debug\net8.0\formatando-valores.dll
+D:\projetos\.net\decola-tech\formatando-valores\bin\Debug\net8.0\formatando-valores.pdb
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.AssemblyInfoInputs.cache
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.AssemblyInfo.cs
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.csproj.CoreCompileInputs.cache
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.sourcelink.json
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.dll
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\refint\formatando-valores.dll
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.pdb
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\formatando-valores.genruntimeconfig.cache
+D:\projetos\.net\decola-tech\formatando-valores\obj\Debug\net8.0\ref\formatando-valores.dll
